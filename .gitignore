@@ -10,6 +10,16 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+
+/[Aa]ssets/Audio
+/[Aa]ssets/TDSKit
+/[Aa]ssets/SpriteShader
+
+
+# TextMesh Pro files
+[Aa]ssets/TextMesh*Pro/
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
